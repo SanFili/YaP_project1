@@ -1,3 +1,5 @@
-# [Научиться учиться](https://sanfili.github.io/yap_project1/)
-__________
+# Научиться учиться
+
+## [Посмотреть проект на GitHub Pages](https://sanfili.github.io/YaP_project1/)
+
 
